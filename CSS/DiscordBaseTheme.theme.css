@@ -1108,7 +1108,7 @@ padding: var(--dplus-spacing-ui);
 .wordmark-2u86JB svg {display: none;}
 .winButton-3UMjdg {
 	height: 24px;
-	top: 2px;
+	top: 10px;
 }
 .winButtonClose-3Q8ZH5 {
 	border-radius: 0 10px 10px 0;
@@ -1120,7 +1120,7 @@ padding: var(--dplus-spacing-ui);
     background-repeat: no-repeat;
     background-position: 0 !important;
     position: fixed;
-    width: 100%;
+    width: 300%;
     height: 16px;
     top: var(--dplus-spacing-app);
     left: calc(var(--dplus-spacing-app) + var(--dplus-spacing-ui));
